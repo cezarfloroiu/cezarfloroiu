@@ -1,6 +1,6 @@
-- 👋  Hi, I’m @cezarfloroiu
-- 👀  I’m interested in NodeJs, C# and React
-- 📫  You can reach you on Twitter: @cezarfloroiu
+- 👋  Hi, I’m Cezar
+- 👀  I’m interested in development (React, NodeJs, C#), trading and poker
+- 📫  You can reach me on Twitter: @cezarfloroiu
 
 <!---
 cezarfloroiu/cezarfloroiu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
