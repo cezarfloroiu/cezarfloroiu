@@ -1,5 +1,5 @@
 - 👋  Hi, I’m Cezar
-- 👀  I’m interested in programming (React, NodeJs, C#), trading and poker
+- 👀  I’m interested in programming (now: React, NodeJs, C#), trading and poker
 - 📫  You can reach me on Twitter: @cezarfloroiu
 
 <!---
